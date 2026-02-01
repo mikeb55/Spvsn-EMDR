@@ -367,3 +367,9 @@ Alexithymia is more common in autistic individuals but can occur in anyone. It's
 - "What would help you feel more in control?"
 
 **Key principle:** Work with what the client can access - body sensations, logic, concrete details, and observable behaviours - rather than asking them to identify or describe emotions they may not be able to recognise.
+
+## Flashforward Procedure
+
+The Flashforward Procedure is an EMDR technique used when persisting irrational fears about future catastrophic events remain after core past memories have been fully processed, targeting the client's imagined future scenario rather than past trauma.
+
+**Reference:** Logie, R. D. J., & Jongh, A. D. (2014). The "Flashforward Procedure": Confronting the Catastrophe. Journal of EMDR Practice and Research, 8(1), 25–32. https://doi.org/10.1891/1933-3196.8.1.25
