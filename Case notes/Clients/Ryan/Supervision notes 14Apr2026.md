@@ -1,88 +1,73 @@
-# Supervision Notes — 14 April 2026
+# Supervision Notes — Ryan — 14 April 2026 (V2)
 
-## Client
+## Client / Supervisor / Clinician
 
-Ryan
+- **Client:** Ryan  
+- **Supervisor:** Not named in the verified on-file summary (V4, 03-03-2026).  
+- **Clinician:** Not named in the verified on-file summary (V4, 03-03-2026).
 
-## Date
+## Brief Background
 
-14 April 2026
+*Verified source: Ryan – EMDR Supervision Summary V4 – 03-03-2026.*
 
-*Source context for verified clinical content: Ryan – EMDR Supervision Summary V4 – 03-03-2026 (on file in this repository). This note does not record that a supervision session occurred on 14 April 2026; that is not evidenced in repository materials reviewed for this document.*
-
-## Brief background summary
-
-(As documented in V4, 03-03-2026.)
-
-- University student; relationship instability, panic attacks, overthinking.
-- Intrusive violent imagery (ego-dystonic; no intent).
-- Awaiting GP referral to Brandon Centre.
+- University student; relationship instability, panic attacks, and overthinking appear in the record.
+- Intrusive violent imagery is documented as ego-dystonic, without intent to act.
+- GP referral to Brandon Centre is awaited.
 - CORE = 18 (sleep elevated situationally).
 
-## Since last supervision
+**Formulation (condensed attachment model, per V4):** Father left when client was in Year 2 (attachment rupture). Perceived emotional invalidation from mother (RADA choice). Childhood sibling conflict/bullying. Suppressed rage linked to abandonment themes; shame about anger and fear of being morally “bad.” Relationship stress appears to activate an abandonment network → panic → intrusive violent imagery; imagery is conceptualised in V4 as symbolic discharge of unprocessed attachment rage.
 
-The most recent on-file supervision-oriented case summary in the repository is **V4 — 03 March 2026**.
+## Since Last Supervision
 
-**[TO BE COMPLETED]** — Any sessions, events, or updates between that documented summary and 14 April 2026 that are not already held in this repository.
+The most recent supervision-oriented case summary on file is **V4 — 03 March 2026**.
 
-## Current presentation
+**[TO BE COMPLETED]** — Verified material dated after 03 March 2026, once added to the clinical record.
 
-**[TO BE COMPLETED]** — Presentation updates since the 03 March 2026 summary, if any, once verified.
+## Current Presentation
 
-*Documented baseline (V4, 03-03-2026):* University student; relationship instability, panic attacks, overthinking; intrusive violent imagery (ego-dystonic; no intent); awaiting GP referral to Brandon Centre; CORE = 18 (sleep elevated situationally).
+*As documented in V4 (03-03-2026):* presentation includes university-level study with relationship instability, panic attacks, overthinking; intrusive violent imagery (ego-dystonic; no intent); await GP referral to Brandon Centre; CORE = 18 (sleep elevated situationally).
 
-## Risk update
+**[TO BE COMPLETED]** — Any update to presentation since V4, once verified.
 
-*As documented in V4 (03-03-2026):*
+## Risk Update
 
-- Denies intent to harm self or others.
-- Would attend A&E if thoughts escalate.
-- Insight intact; thoughts experienced as unwanted and distressing.
-- Protective factor: active help-seeking and engagement in therapy.
+*Per V4 (03-03-2026):*
 
-**[TO BE COMPLETED]** — Any change in risk presentation or protective factors since last verified documentation.
+- Denies intent to harm self or others; would attend A&E if thoughts escalate.
+- Insight remains described as intact; thoughts experienced as unwanted and distressing.
+- Protective factors on file include active help-seeking and engagement in therapy.
 
-## EMDR focus / formulation update
+**[TO BE COMPLETED]** — Any change in risk or protective factors since V4, once verified.
 
-*As documented in V4 (03-03-2026):*
+## EMDR Focus / Formulation Update
 
-**Formulation (condensed attachment model):**
-
-- Father left when client was in Year 2 (attachment rupture).
-- Perceived emotional invalidation from mother (RADA choice).
-- Childhood sibling conflict/bullying experiences.
-- Suppressed rage linked to abandonment themes; shame about anger and fear of being morally “bad”.
-- Relationship stress activates abandonment network → panic → intrusive violent imagery; violent imagery conceptualised as symbolic discharge of unprocessed attachment rage.
-
-**Phase 2 work completed (per V4):**
-
-- Psychoeducation on panic physiology.
-- Breathing regulation and calming imagery.
-- Cognitive distortions identified (personalising, regret orientation).
-- Inner Critic framework introduced.
-- Intersession thought-monitoring task assigned.
+**Phase 2 work completed (per V4):** Psychoeducation (panic physiology); breathing regulation and calming imagery; cognitive distortions (personalising, regret orientation); Inner Critic framework; intersession thought-monitoring task.
 
 **Supervision feedback recorded in V4:**
 
-- Floatback: trace NC “I am bad” to earliest memory; prioritise experiential link over narrative.
-- NC “I am bad”: core shame cognition; likely rooted in early attachment rupture and invalidation; target before or alongside abandonment memories.
-- Ego-dystonic vs ego-syntonic clarification for intrusions.
-- Timestamp vs present trauma distinction for target selection and stabilisation.
+- **Floatback:** Trace NC “I am bad” to earliest memory; prioritise experiential link over narrative.
+- **NC “I am bad”:** Core shame cognition; likely rooted in early attachment rupture and invalidation; target before or alongside abandonment memories.
+- **Ego-dystonic vs ego-syntonic:** Intrusions are ego-dystonic (unwanted, distressing; no intent to act); distinct from ego-syntonic violent ideation (which would contraindicate EMDR).
+- **Timestamp vs present trauma:** Clarify whether imagery reflects past (stored trauma) or present (ongoing threat); informs target selection and stabilisation.
 
-**Treatment direction (branching logic in V4):** Depends on whether intrusions are framed as past (stored), present/future threat, or mixed; use Floatback to clarify where indicated.
+**Treatment direction (branching logic, per V4):** If intrusions are framed as past trauma → earliest linked memory via Floatback, process abandonment/shame sequence, extend stabilisation if affect tolerance is low. If present/future threat → strengthen Phase 2; target recent panic/disclosure memory first; future template after past processing as appropriate. If mixed/unclear → Floatback to clarify; prioritise earliest “I am bad” memory; reassess after processing that target.
 
-**[TO BE COMPLETED]** — Any formulation or phase update since V4 once verified in repository materials.
+**[TO BE COMPLETED]** — Any formulation or phase update after V4, once verified.
 
-## Questions for supervision with Dr Hannah Bryan
+## Questions for Supervision
 
-**[TO BE COMPLETED]** — New questions for this contact. (V4 records supervision feedback and treatment direction but does not list explicit session questions for a subsequent date.)
+**[TO BE COMPLETED]** — New questions for the next supervision contact.
 
-*Continuity topics already documented in V4 for reference:* Floatback and NC “I am bad”; ego-dystonic vs ego-syntonic clarity; past vs present/future threat and target selection.
+**Continuity (from supervision feedback in V4):** Floatback and NC “I am bad”; ego-dystonic vs ego-syntonic framing; distinction between past-stored and present-threat material for targets and stabilisation.
 
-## Next steps
+## Next Steps
 
-Per V4, next steps depend on clarification of intrusion type (past trauma vs present/future threat vs mixed) and use of Floatback as outlined.
+Follow V4 branching logic according to how intrusion type is conceptualised (past stored vs present/future threat vs mixed).
 
-**[TO BE COMPLETED]** — Agreed actions following this supervision contact.
+**[TO BE COMPLETED]** — Agreed next steps once supervision is held and recorded.
 
-*V4 source placeholders:* Next supervision dates were not set in the on-file summary (`[Add next supervision date]` / `[Add following supervision date]`).
+*V4 placeholder fields for future supervision dates remain unspecified on file.*
+
+## Compliance note
+
+**No supervision session on 14 April 2026 is documented in the verified source used for this note (V4, 03-03-2026).** This file is a structured supervision note for professional use; it does not assert that a meeting occurred on this date. Clinical content is limited to material evidenced in V4.
